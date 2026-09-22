@@ -1,0 +1,12 @@
+# Jangan commit kredensial atau file runtime
+.env
+*.log
+state.json
+state.json.tmp
+candles.json
+candles.json.tmp
+control.json
+control.json.tmp
+__pycache__/
+*.pyc
+venv/

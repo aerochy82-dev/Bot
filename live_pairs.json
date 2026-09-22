@@ -1,0 +1,27 @@
+[
+  {
+    "symbol": "MEME-USDT-SWAP",
+    "market_type": "FUTURES",
+    "exchange": "OKX"
+  },
+  {
+    "symbol": "AEON-USDT-SWAP",
+    "market_type": "FUTURES",
+    "exchange": "OKX"
+  },
+  {
+    "symbol": "SHIB-USDT-SWAP",
+    "market_type": "FUTURES",
+    "exchange": "OKX"
+  },
+  {
+    "symbol": "BONK-USDT-SWAP",
+    "market_type": "FUTURES",
+    "exchange": "OKX"
+  },
+  {
+    "symbol": "PENGU-USDT-SWAP",
+    "market_type": "FUTURES",
+    "exchange": "OKX"
+  }
+]
