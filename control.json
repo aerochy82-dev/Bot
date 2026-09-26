@@ -1,1 +1,0 @@
-{"paused": false, "pending_strategy_settings": null, "requested_ema_params": {"fast": 9, "slow": 21}, "requested_ema_params_futures": {"fast": 21, "slow": 55}, "dry_run": false, "shutdown_requested": false, "reset_stats_requested": false}

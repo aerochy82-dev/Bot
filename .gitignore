@@ -7,6 +7,10 @@ candles.json
 candles.json.tmp
 control.json
 control.json.tmp
+pnl_history.json
+pnl_history.json.bak*
+live_pairs.json
+markers.json
 __pycache__/
 *.pyc
 venv/
